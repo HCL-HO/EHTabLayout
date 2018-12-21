@@ -1,0 +1,47 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="nav_header_vertical_spacing">16dp</dimen>
+    <dimen name="nav_header_height">160dp</dimen>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">5dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="login_icon_size">24dp</dimen>
+    <dimen name="login_hint_txt_size">14sp</dimen>
+
+
+    <dimen name="main_title">28sp</dimen>
+    <dimen name="findpw_main_title">24sp</dimen>
+    <dimen name="findpw_main1_title">20sp</dimen>
+    <dimen name="findpw_main2_title">18sp</dimen>
+    <dimen name="findpw_main3_title">16sp</dimen>
+    <dimen name="findpw_main4_title">14sp</dimen>
+    <dimen name="findpw_sub_title">12sp</dimen>
+    <dimen name="findpw_sub1_title">11sp</dimen>
+    <dimen name="findpw_sub2_title">10sp</dimen>
+    <dimen name="findpw_round_corner_radius">10dip</dimen>
+    <dimen name="jx_home_button_row">50dp</dimen>
+    <dimen name="jx_home_button_row_text">12sp</dimen>
+    <dimen name="jx_home_frame_padding">15dp</dimen>
+    <dimen name="jx_home_grid_spacing">10dp</dimen>
+    <dimen name="ranking_score_size">18sp</dimen>
+    <dimen name="ranking_top3_icon_size">50dp</dimen>
+    <dimen name="ranking_item_height">80dp</dimen>
+
+    <dimen name="pk10_small_label">12sp</dimen>
+    <dimen name="pk10_middle_label">14sp</dimen>
+    <dimen name="pk10_common_margin">8dp</dimen>
+    <dimen name="pk10_button_margin_vertical">5dp</dimen>
+    <dimen name="pk10_result_text">12sp</dimen>
+    <dimen name="pk10_result_time">16sp</dimen>
+    <dimen name="pk10_dragtop_height">360dp</dimen>
+
+    <dimen name="custom_text_12sp">8sp</dimen>
+    <dimen name="custom_text_24sp">18sp</dimen>
+    <dimen name="custom_text_18sp">12sp</dimen>
+    <dimen name="custom_text_16sp">10sp</dimen>
+
+    <dimen name="banner_height">132dp</dimen>
+    <dimen name="banner_width">310dp</dimen>
+
+</resources>

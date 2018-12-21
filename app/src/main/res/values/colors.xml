@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">@color/theme_dark</color>
+    <color name="colorPrimaryDark">@color/theme_dark</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="white">#ffffff</color>
+    <color name="white_transparent">#80ffffff</color>
+    <color name="black">#000000</color>
+    <color name="gray">#979797</color>
+    <color name="blue">#2fa6de</color>
+    <color name="light_blue">#9DDEFE</color>
+    <color name="green">#82B348</color>
+    <color name="red">#f7453b</color>
+    <color name="darker_red">#C7283B</color>
+
+    <color name="transparent">#00000000</color>
+
+    <color name="money_detail_amount_white">#FFFFFE</color>
+
+    <color name="yellow">#f7dc52</color>
+
+
+    <color name="btn_yellow">#FCDD3F</color>
+    <color name="light_gray">#F2F2F2</color>
+    <color name="hint_word_gray">#BFBFBF</color>
+    <color name="btn_light_green">#08A09D</color>
+    <color name="btn_border_gray">#DFDFDF</color>
+    <color name="btn_word_gray">#9E9E9E</color>
+
+    <color name="login_button_after">#13A2BA</color>
+
+    <color name="article_grew">#898989</color>
+    <color name="article_green">#08a09d</color>
+
+    <color name="play_type_selected_text">#fffffd</color>
+
+    <color name="dialog_bg_black">#cc000000</color>
+    <color name="theme_gray">#878E97</color>
+    <color name="login_input_text">@color/theme_gray</color>
+    <color name="theme_dark">#0C192C</color>
+    <color name="theme_dark_transparent">#140c192c</color>
+    <color name="theme_dark_less_transparent">#b50c192c</color>
+    <color name="findpw_layer_level_1">#132235</color>
+    <color name="findpw_layer_level_1_transluent">#28132235</color>
+    <color name="findpw_warning">#C7283B</color>
+    <color name="start_girl_red">#D64589</color>
+    <color name="score_gold">#D4A85E</color>
+    <color name="score_gold_lighter">#cab390</color>
+    <color name="white_transluent">#999999</color>
+    <color name="theme_blue_light">#1186AF</color>
+    <color name="exchange_tab_text">@color/theme_gray</color>
+    <color name="exchange_tab_selected_text">#0B869F</color>
+    <color name="theme_article_yellow">#E2B974</color>
+    <color name="forum_new_gray">@color/theme_gray</color>
+    <color name="vip_text_color">@color/theme_gray</color>
+    <color name="findpw_layer_darker">#142337</color>
+    <color name="findpw_layer_lighter">@color/theme_ligher_gray</color>
+    <color name="theme_ligher_gray">#404B5E</color>
+    <color name="theme_white_gray">#8E8E93</color>
+    <color name="pk10_gold">#c48d01</color>
+    <color name="pk10_desc_bg">#142337</color>
+    <color name="theme_blue">#13A2BA</color>
+    <color name="dark_transluent">#dc0c192c</color>
+    <color name="black_transluent">#333333</color>
+    <color name="value_increase">#D4A85E</color>
+    <color name="value_decrease">#13A2BA</color>
+    <color name="value_unchange">#8E8E93</color>
+    <color name="add_bank_field_bg">#132235</color>
+    <color name="value_recharge_et">#D4A85E</color>
+    <color name="value_form_et">#8E8E93</color>
+
+    <color name="welfare_tab_unselected">#8E8E93</color>
+    <color name="welfare_tab_stats_vip_unselected">#71767B</color>
+</resources>

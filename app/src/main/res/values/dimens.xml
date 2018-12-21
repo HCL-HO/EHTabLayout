@@ -1,0 +1,69 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="nav_header_vertical_spacing">16dp</dimen>
+    <dimen name="nav_header_height">160dp</dimen>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">5dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="login_icon_size">24dp</dimen>
+    <dimen name="login_hint_txt_size">14sp</dimen>
+
+
+    <dimen name="main_title">37sp</dimen>
+    <dimen name="findpw_main_title">34sp</dimen>
+    <dimen name="findpw_main1_title">30sp</dimen>
+    <dimen name="findpw_main2_title">24sp</dimen>
+    <dimen name="findpw_main3_title">22sp</dimen>
+    <dimen name="findpw_main4_title">20sp</dimen>
+    <dimen name="findpw_sub_title">18sp</dimen>
+    <dimen name="findpw_sub1_title">16sp</dimen>
+    <dimen name="findpw_sub2_title">14sp</dimen>
+
+
+    <dimen name="findpw_round_corner_radius">10dip</dimen>
+    <dimen name="jx_home_button_row">50dp</dimen>
+    <dimen name="jx_home_button_row_text">12sp</dimen>
+    <dimen name="jx_home_frame_padding">15dp</dimen>
+    <dimen name="jx_home_grid_spacing">10dp</dimen>
+    <dimen name="ranking_score_size">22sp</dimen>
+    <dimen name="ranking_top3_icon_size">60dp</dimen>
+    <dimen name="ranking_item_height">80dp</dimen>
+    <dimen name="theme_icon_margin_end">12dp</dimen>
+    <dimen name="favorite_grid_vertical">10dp</dimen>
+    <dimen name="favorite_grid_horizontal">10dp</dimen>
+    <dimen name="notice_fragment_padding">15dp</dimen>
+    <dimen name="theme_common_button_height">55dp</dimen>
+    <dimen name="theme_common_err_height">24dp</dimen>
+
+
+    <dimen name="theme_common_side_icon">36dp</dimen>
+    <dimen name="pk10_small_label">20sp</dimen>
+    <dimen name="pk10_middle_label">22sp</dimen>
+    <dimen name="pk10_button_margin_vertical">20dp</dimen>
+    <dimen name="pk10_result_text">14sp</dimen>
+    <dimen name="pk10_result_time">18sp</dimen>
+    <dimen name="pk10_num_size">18sp</dimen>
+    <dimen name="pk10_num_result_size">35dp</dimen>
+    <dimen name="pk10_history_row">32dp</dimen>
+    <dimen name="pk10_common_margin">15dp</dimen>
+    <dimen name="pk10_result_num_margin">5dp</dimen>
+    <dimen name="pk10_toggle_btn_size">32dp</dimen>
+    <dimen name="pk10_big_small_container_padding">20dp</dimen>
+    <dimen name="view_title">30sp</dimen>
+    <dimen name="pk10_dragtop_height">450dp</dimen>
+    <dimen name="playtype_menu_scrolltext_margin_x">25dp</dimen>
+    <dimen name="recharge_icon_size">36dp</dimen>
+    <dimen name="recharge_menu_item_height">150dp</dimen>
+    <dimen name="edit_card_common_edittext_height">56dp</dimen>
+
+    <dimen name="custom_text_12sp">12sp</dimen>
+    <dimen name="custom_text_24sp">24sp</dimen>
+    <dimen name="custom_text_18sp">14sp</dimen>
+    <dimen name="custom_text_16sp">12sp</dimen>
+    <dimen name="common_lottery_list_icon">100dp</dimen>
+
+    <dimen name="banner_height">149dp</dimen>
+    <dimen name="banner_width">350dp</dimen>
+
+</resources>
