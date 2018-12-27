@@ -175,6 +175,10 @@ public abstract class MyTabLayout extends LinearLayout {
         inflater.onUnSelected(pos);
     }
 
+    public int getSelected() {
+        return CURRENT_TAB;
+    }
+
     public void setUiUpdater(MyTabLayout.UIUpdater uiUpdater) {
         this.uiUpdater = uiUpdater;
     }
